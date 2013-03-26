@@ -8,7 +8,7 @@ FOR_GH_DIR = '__deploy'
 REPO = 'git@github.com:dartrefjp/dartrefjp.github.com.git'
 REPO_NAME = 'dartrefjp.github.com'
 
-BRANCH_GH_PAGES = 'gh-pages'
+BRANCH_GH_PAGES = 'master'
 
 
 Dir.chdir( File.dirname(__FILE__) ) do
